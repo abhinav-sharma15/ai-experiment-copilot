@@ -1,0 +1,3 @@
+variant,n,conversions,experiment_name,hypothesis,primary_metric
+control,20000,1200,Signup CTA Contrast,Higher contrast increases signup rate,signup_rate
+treatment,19800,1350,Signup CTA Contrast,Higher contrast increases signup rate,signup_rate

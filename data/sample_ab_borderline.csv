@@ -1,0 +1,3 @@
+variant,n,conversions,experiment_name,hypothesis,primary_metric
+control,5000,250,Homepage Hero Test,Swapping image increases CTR,ctr
+treatment,5000,270,Homepage Hero Test,Swapping image increases CTR,ctr

@@ -1,0 +1,3 @@
+﻿variant,n,conversions,experiment_name,hypothesis,primary_metric
+control,13327,22,Japan Pricing Test: actual vs 30% discount,Providing 30% dsicount would lead to much better conversion and ultimately more billings,conversion_rate
+treatment,12794,51,Japan Pricing Test: actual vs 30% discount,Providing 30% dsicount would lead to much better conversion and ultimately more billings,conversion_rate
