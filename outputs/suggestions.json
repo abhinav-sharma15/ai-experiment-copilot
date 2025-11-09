@@ -1,0 +1,53 @@
+{
+  "overall_theme": "Pricing",
+  "ideas": [
+    {
+      "title": "Copy/Contrast Test",
+      "hypothesis": "Providing a 30% discount will lead to better conversion and more billings",
+      "rationale": "Building on the success of Poland and LATAM discounts, we can apply similar principles to Japan pricing test",
+      "metrics": [
+        "conversion_rate",
+        "average_order_value"
+      ],
+      "sample_size_hint": null,
+      "risks": [
+        "price sensitivity in Japan market"
+      ],
+      "instrumentation": [
+        "track conversion rate by product tier"
+      ]
+    },
+    {
+      "title": "Discount Ladder Test",
+      "hypothesis": "Offering a discount ladder (e.g., 10%, 20%, and 30%) will increase conversions",
+      "rationale": "Discount ladders have been successful in other markets, and we can apply this strategy to Japan pricing test",
+      "metrics": [
+        "conversion_rate",
+        "average_order_value"
+      ],
+      "sample_size_hint": null,
+      "risks": [
+        "over-discounting may lead to decreased revenue"
+      ],
+      "instrumentation": [
+        "track conversion rate by discount tier"
+      ]
+    },
+    {
+      "title": "Price Anchoring Test",
+      "hypothesis": "Providing a clear price anchor (e.g., 'Was $X, now $Y') will increase conversions",
+      "rationale": "Price anchoring has been successful in other markets, and we can apply this strategy to Japan pricing test",
+      "metrics": [
+        "conversion_rate",
+        "average_order_value"
+      ],
+      "sample_size_hint": null,
+      "risks": [
+        "price sensitivity in Japan market"
+      ],
+      "instrumentation": [
+        "track conversion rate by product tier"
+      ]
+    }
+  ]
+}

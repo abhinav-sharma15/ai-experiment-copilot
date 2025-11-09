@@ -1,0 +1,21 @@
+{
+  "title": "Experiment: Japan Pricing Test: actual vs 30% discount",
+  "verdict": "Hypothesis supported",
+  "summary": "Providing a 30% discount led to a significant increase in conversion rate and ultimately more billings.",
+  "key_metrics": [
+    {
+      "metric": "conversion_rate",
+      "baseline_value": 0.0016507841224581677,
+      "treatment_value": 0.003986243551664843,
+      "lift": 0.002335459429206675,
+      "p_value": 0.00035119951427731166,
+      "ci": [
+        0.0010548035693041884,
+        0.003616115289109162
+      ]
+    }
+  ],
+  "drivers": [],
+  "caveats": [],
+  "recommended_actions": []
+}
